@@ -1615,6 +1615,24 @@
       "Al-Li Alloy": 2
     }
   },
+  "Rare Burner":{ 
+    "tier": 4,
+    "type": "Complex Part",
+    "mass":48.05,
+    "volume": 10,
+    "outputQuantity": 1,
+    "time": 3840,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Metalwork Industry M"],
+    "input": {
+      "Sc-Al Alloy": 2,
+      "Basic Screw": 1,
+      "Duralumin": 2,
+      "Uncommon Screw": 3,
+      "Al-Li Alloy": 2
+    }
+  },
   "Basic Electronics":{ 
     "tier": 1,
     "type": "Complex Part",
