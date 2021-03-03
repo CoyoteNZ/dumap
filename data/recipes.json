@@ -1866,6 +1866,24 @@
       "Polysulfide Plastic": 2
     }
   },
+  "Rare Injector":{ 
+    "tier": 4,
+    "type": "Complex Part",
+    "mass": 20.63,
+    "volume": 10,
+    "outputQuantity": 1,
+    "time": 3840,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["3D Printer M"],
+    "input": {
+      "Fluoropolymer": 2,
+      "Basic Screw": 1,
+      "Polycalcite Plastic": 2,
+      "Uncommon Screw": 3,
+      "Polysulfide Plastic": 2
+    }
+  },
   "Basic Magnet":{ 
     "tier": 1,
     "type": "Complex Part",
@@ -3078,6 +3096,24 @@
       "Inconel": 49,
       "Advanced Pipe": 10,
       "Advanced Burner": 10
+    }
+  },
+  "Rare Combustion Chamber L":{ 
+    "tier": 4,
+    "type": "Functional Part",
+    "mass": 9230,
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 103680,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Metalwork Industry M"],
+    "input": {
+      "Uncommon Pipe": 38,
+      "Advanced Pipe": 88,
+      "Advanced Burner": 38,
+      "Maraging Steel": 343,
+      "Rare Burner": 50
     }
   },
   "Basic Control System XS":{ 
@@ -14084,6 +14120,24 @@
       "Uncommon Injector": 125,
       "Uncommon Combustion Chamber L": 1,
       "Uncommon Reinforced Frame L": 1
+    }
+  },
+  "Rare Military Atmospheric Engine L":{ 
+    "tier": 4,
+    "type": "Atmospheric Engine",
+    "mass": 17000,
+    "volume": 3355.4,
+    "outputQuantity": 1,
+    "time": 208800,
+    "skill": "Systems",
+    "byproducts": {},
+    "industries": ["Assembly Line L"],
+    "input": {
+      "Uncommon Screw": 108,
+      "Advanced Screw": 108,
+      "Rare Injector": 125,
+      "Rare Combustion Chamber L": 1,
+      "Rare Reinforced Frame L": 1
     }
   },
   "Safe Atmospheric Engine L":{ 

@@ -866,6 +866,7 @@
 							  "Freight Atmospheric Engine L",
 							  "Maneuver Atmospheric Engine L",
 							  "Military Atmospheric Engine L",
+							  "Rare Military Atmospheric Engine L",
 							  "Safe Atmospheric Engine L"
 							]
 						}
@@ -1488,7 +1489,8 @@
 			"name": "Injectors",
 			"data": [
 			  "Basic Injector",
-			  "Advanced Injector"
+			  "Advanced Injector",
+			  "Rare Injector"
 			]
 		  },
 		  {
@@ -1684,7 +1686,8 @@
               "Basic Combustion Chamber L",
               "Advanced Combustion Chamber XS",
               "Advanced Combustion Chamber S",
-              "Advanced Combustion Chamber M"
+              "Advanced Combustion Chamber M",
+              "Rare Combustion Chamber L"
             ]
           },
           {
