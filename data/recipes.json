@@ -5545,6 +5545,38 @@
       "Basic Reinforced Frame L": 2
     }
   },
+  "Container XL":{ 
+    "tier": 1,
+    "type": "Container",
+    "mass": 44210,
+    "volume": 10500,
+    "outputQuantity": 1,
+    "time": 22560,
+    "skill": "Systems",
+    "byproducts": {},
+    "industries": ["Assembly Line XL"],
+    "input": {
+      "Basic Component": 1296,
+      "Basic Hydraulics": 625,
+      "Basic Reinforced Frame XL": 1
+    }
+  },
+  "Expanded Container XL":{ 
+    "tier": 1,
+    "type": "Container",
+    "mass": 88410,
+    "volume": 21000,
+    "outputQuantity": 1,
+    "time": 45180,
+    "skill": "Systems",
+    "byproducts": {},
+    "industries": ["Assembly Line XL"],
+    "input": {
+      "Basic Component": 2592,
+      "Basic Hydraulics": 1250,
+      "Basic Reinforced Frame XL": 2
+    }
+  },
   "Dispenser":{ 
     "tier": 1,
     "type": "Container",
