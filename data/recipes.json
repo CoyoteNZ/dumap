@@ -10452,7 +10452,7 @@
     "byproducts": {},
     "industries": ["Nanopack","Honeycomb Refinery M"],
     "input": {
-      "Iron Pure": 100
+      "Carbon Pure": 100
     }
   },
   "Silicon Honeycomb":{ 
