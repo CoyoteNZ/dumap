@@ -1815,7 +1815,12 @@
               "Basic Mobile Panel S",
               "Basic Mobile Panel M",
               "Basic Mobile Panel L",
-              "Basic Mobile Panel XL"
+              "Basic Mobile Panel XL",
+              "Advanced Mobile Panel XS",
+              "Advanced Mobile Panel S",
+              "Advanced Mobile Panel M",
+              "Advanced Mobile Panel L",
+              "Advanced Mobile Panel XL"
             ]
           },
           {

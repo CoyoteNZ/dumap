@@ -4125,14 +4125,54 @@
     "type": "Functional Part",
     "mass": 20,
     "volume": 9.6,
-    "outputQuantity": 3,
+    "outputQuantity": 1,
     "time": 180,
     "skill": "",
     "byproducts": {},
     "industries": ["Nanopack","Metalwork Industry M"],
     "input": {
-      "Silumin": 3,
-      "Basic Screw": 3
+      "Silumin": 1,
+      "Basic Screw": 1
+    }
+  },
+  "Advanced Mobile Panel XS":{ 
+    "tier": 3,
+    "type": "Functional Part",
+    "mass": 27.2,
+    "volume": 56.45,
+    "outputQuantity": 3,
+    "time": 960,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Nanopack","Metalwork Industry M"],
+    "input": {
+      "Basic Hydraulics": 1,
+      "Uncommon Screw": 1,
+      "Uncommon Hydraulics": 1,
+      "Al-Li Alloy": 1,
+      "Advanced Screw": 1,
+      "Advanced Hydraulics": 1,
+      "Basic Screw": 1
+    }
+  },
+  "Advanced Mobile Panel S":{ 
+    "tier": 3,
+    "type": "Functional Part",
+    "mass": 119.16,
+    "volume": 58.4,
+    "outputQuantity": 1,
+    "time": 2880,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Nanopack","Metalwork Industry M"],
+    "input": {
+      "Basic Screw":2,
+      "Basic Hydraulics":2,
+      "Uncommon Screw":2,
+      "Uncommon Hydraulics": 2,
+      "Al-Li Alloy": 7,
+      "Advanced Screw": 2,
+      "Advanced Hydraulics": 2
     }
   },
   "Basic Mobile Panel S":{ 
@@ -4146,8 +4186,8 @@
     "byproducts": {},
     "industries": ["Nanopack","Metalwork Industry M"],
     "input": {
-      "Silumin": 7,
-      "Basic Screw": 5
+      "Basic Screw":5,
+      "Silumin":7
     }
   },
   "Basic Mobile Panel M":{ 
@@ -4161,8 +4201,28 @@
     "byproducts": {},
     "industries": ["Nanopack","Metalwork Industry M"],
     "input": {
-      "Silumin": 49,
-      "Basic Screw": 25
+      "Basic Screw": 25,
+      "Silumin":49
+    }
+  },
+  "Advanced Mobile Panel M":{ 
+    "tier": 3,
+    "type": "Functional Part",
+    "mass": 540.03,
+    "volume": 268,
+    "outputQuantity": 1,
+    "time": 8640,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Nanopack","Metalwork Industry M"],
+    "input": {
+      "Basic Screw": 8,
+      "Basic Hydraulics":8,
+      "Uncommon Screw":8,
+      "Uncommon Hydraulics":8,
+      "Al-Li Alloy":49,
+      "Advanced Screw":10,
+      "Advanced Hydraulics":10
     }
   },
   "Basic Mobile Panel L":{ 
@@ -4176,8 +4236,28 @@
     "byproducts": {},
     "industries": ["Metalwork Industry M"],
     "input": {
-      "Silumin": 343,
-      "Basic Screw": 125
+      "Basic Screw": 125,
+      "Silumin":343
+    }
+  },
+  "Advanced Mobile Panel L":{ 
+    "tier": 3,
+    "type": "Functional Part",
+    "mass": 2750,
+    "volume": 1383.2,
+    "outputQuantity": 1,
+    "time": 25920,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Metalwork Industry M"],
+    "input": {
+      "Basic Screw": 38,
+      "Basic Hydraulics":38,
+      "Uncommon Screw":38,
+      "Uncommon Hydraulics":38,
+      "Al-Li Alloy":343,
+      "Advanced Screw":50,
+      "Advanced Hydraulics":50
     }
   },
   "Basic Mobile Panel XL":{ 
@@ -4191,8 +4271,28 @@
     "byproducts": {},
     "industries": ["Metalwork Industry M"],
     "input": {
-      "Silumin": 2401,
-      "Basic Screw": 625
+      "Basic Screw": 625,
+       "Silumin":2401
+    }
+  },
+  "Advanced Mobile Panel XL":{ 
+    "tier": 3,
+    "type": "Functional Part",
+    "mass": 14530,
+    "volume": 7429.6,
+    "outputQuantity": 1,
+    "time": 77760,
+    "skill": "",
+    "byproducts": {},
+    "industries": ["Metalwork Industry M"],
+    "input": {
+      "Basic Screw": 188,
+      "Basic Hydraulics":188,
+      "Uncommon Screw":188,
+      "Uncommon Hydraulics":188,
+      "Al-Li Alloy":2401,
+      "Advanced Screw":250,
+      "Advanced Hydraulics":250
     }
   },
   "Advanced Motherboard M":{ 
