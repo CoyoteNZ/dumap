@@ -5897,6 +5897,23 @@
       "Basic Reinforced Frame XS": 1
     }
   },
+  "Advanced Assembly Line XS":{ 
+    "tier": 1,
+    "type": "Industry",
+    "mass": 100.93,
+    "volume": 21.8,
+    "outputQuantity": 1,
+    "time": 1080,
+    "skill": "InIn",
+    "byproducts": {},
+    "industries": ["Nanopack", "Assembly Line XS"],
+    "input": {
+      "Uncommon Screw": 1,
+      "Advanced Power System": 1,
+      "Advanced Mobile Panel XS": 1,
+      "Advanced Reinforced Frame XS": 1
+    }
+  },
   
   "Assembly Line S":{ 
     "tier": 1,
@@ -5913,6 +5930,23 @@
       "Basic Power System": 5,
       "Basic Mobile Panel S": 1,
       "Basic Reinforced Frame S": 1
+    }
+  },
+  "Advanced Assembly Line S":{ 
+    "tier": 1,
+    "type": "Industry",
+    "mass": 522.14,
+    "volume": 112.6,
+    "outputQuantity": 1,
+    "time": 4320,
+    "skill": "InIn",
+    "byproducts": {},
+    "industries": ["Nanopack","Assembly Line XS","Assembly Line S"],
+    "input": {
+      "Uncommon Screw": 6,
+      "Advanced Power System": 5,
+      "Advanced Mobile Panel S": 1,
+      "Advanced Reinforced Frame S": 1
     }
   },
   "Assembly Line M":{ 
@@ -5932,6 +5966,23 @@
       "Basic Reinforced Frame M": 1
     }
   },
+  "Advanced Assembly Line M":{ 
+    "tier": 1,
+    "type": "Industry",
+    "mass": 2800,
+    "volume": 599.2,
+    "outputQuantity": 1,
+    "time": 17280,
+    "skill": "InIn",
+    "byproducts": {},
+    "industries": ["Assembly Line S","Assembly Line M"],
+    "input": {
+      "Uncommon Screw": 36,
+      "Advanced Power System": 25,
+      "Advanced Mobile Panel M": 1,
+      "Advanced Reinforced Frame M": 1
+    }
+  },
   "Assembly Line L":{ 
     "tier": 1,
     "type": "Industry",
@@ -5949,6 +6000,23 @@
       "Basic Reinforced Frame L": 1
     }
   },
+  "Advanced Assembly Line L":{ 
+    "tier": 1,
+    "type": "Industry",
+    "mass": 15380,
+    "volume": 3255.4,
+    "outputQuantity": 1,
+    "time": 69120,
+    "skill": "InIn",
+    "byproducts": {},
+    "industries": ["Assembly Line M","Assembly Line L"],
+    "input": {
+      "Uncommon Screw": 216,
+      "Advanced Power System": 125,
+      "Advanced Mobile Panel L": 1,
+      "Advanced Reinforced Frame L": 1
+    }
+  },
   "Assembly Line XL":{ 
     "tier": 1,
     "type": "Industry",
@@ -5964,6 +6032,23 @@
       "Basic Power System": 625,
       "Basic Mobile Panel XL": 1,
       "Basic Reinforced Frame XL": 1
+    }
+  },
+  "Advanced Assembly Line XL":{ 
+    "tier": 1,
+    "type": "Industry",
+    "mass": 86290,
+    "volume": 18070,
+    "outputQuantity": 1,
+    "time": 15570000,
+    "skill": "InIn",
+    "byproducts": {},
+    "industries": ["Assembly Line L","Assembly Line XL"],
+    "input": {
+      "Uncommon Screw": 1296,
+      "Advanced Power System": 625,
+      "Advanced Mobile Panel XL": 1,
+      "Advanced Reinforced Frame XL": 1
     }
   },
   "3D Printer M":{ 

@@ -1087,6 +1087,71 @@
 			]
 		},
 		{
+			"name": "Advanced Assembly Line XS",
+			"target":"Advanced Assembly Line XS",
+			"subject":"Industry",
+			"data":[
+				"Efficiency",
+				"Handling"
+			],
+			"targets":[
+				{"type":"Time","amount":0.02,"relative":true},
+				{"type":"Time","amount":0.02,"relative":true}
+			]
+		},
+		{
+			"name": "Advanced Assembly Line S",
+			"target":"Advanced Assembly Line S",
+			"subject":"Industry",
+			"data":[
+				"Efficiency",
+				"Handling"
+			],
+			"targets":[
+				{"type":"Time","amount":0.02,"relative":true},
+				{"type":"Time","amount":0.02,"relative":true}
+			]
+		},
+		{
+			"name": "Advanced Assembly Line M",
+			"target":"Advanced Assembly Line M",
+			"subject":"Industry",
+			"data":[
+				"Efficiency",
+				"Handling"
+			],
+			"targets":[
+				{"type":"Time","amount":0.02,"relative":true},
+				{"type":"Time","amount":0.02,"relative":true}
+			]
+		},
+		{
+			"name": "Advanced Assembly Line L",
+			"target":"Advanced Assembly Line L",
+			"subject":"Industry",
+			"data":[
+				"Efficiency",
+				"Handling"
+			],
+			"targets":[
+				{"type":"Time","amount":0.02,"relative":true},
+				{"type":"Time","amount":0.02,"relative":true}
+			]
+		},
+		{
+			"name": "Advanced Assembly Line XL",
+			"target":"Advanced Assembly Line XL",
+			"subject":"Industry",
+			"data":[
+				"Efficiency",
+				"Handling"
+			],
+			"targets":[
+				{"type":"Time","amount":0.02,"relative":true},
+				{"type":"Time","amount":0.02,"relative":true}
+			]
+		},
+		{
 			"name": "Chemical",
 			"target":"Chemical Industry M",
 			"subject":"Industry",
